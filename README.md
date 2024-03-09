@@ -6,4 +6,4 @@
 <br>
 <h2>tecnologias usudas HTML, CSS, JAVASCRIPT.</h2>
 <br>
-<imgsrc="https://github.com/HIURY14/conversor-de-moedas/blob/main/Captura%20de%20tela%202024-01-23%20133155.png?raw=true">
+<img src="https://github.com/HIURY14/conversor-de-moedas/blob/main/Captura%20de%20tela%202024-01-23%20133155.png?raw=true">
